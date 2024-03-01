@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Magnago</h1>
 <h3 align="center">I'm passionate about technology and programming, and I'm always looking for new challenges and opportunities to learn and grow. Here you will find some of my projects that I use to learn new languages</h3>
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python and C**
 
-- I have experience with **HTML, CSS, Java, MySQL and Python**
+- I have experience with **Python, Java, HTML, CSS, and MySQL**
 
 - 📫 How to reach me **gabriel.magnago14@gmail.com**
 
