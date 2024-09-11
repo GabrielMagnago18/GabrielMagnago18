@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **gabriel.magnago14@gmail.com**
 
-- My site with my resume **https://gabrielmagnago18.github.io/#home**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/gabriel_magnago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_magnago" height="30" width="40" /></a>
