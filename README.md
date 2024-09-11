@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- I have experience with **Python, Javascript, HTML, CSS, and MySQL**
+- I have experience with **Python, Javascript, React, PostgreSQL/MySQL, git**
 
 - 📫 How to reach me **gabriel.magnago14@gmail.com**
 
